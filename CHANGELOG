@@ -1,0 +1,12 @@
+#Changelog
+All notable changes to this project are documented here.
+
+## [1.0.0] - 2026-10-18
+
+### Added
+- GRC Starter Workbook (Risk Register, Control Assessment, CAP Tracker, Dashboard, Reference) with dropdowns, validation, auto-calculated scores, conditional formatting, and a 5x5 heat map
+- Plain-language guide converted from the original PDF: key terms, guided walkthrough, and column-by-column template guides
+- Scoring methodology document
+- Fill-in guide (`docs/08-what-to-write.md`): what to write in every column, with sentence starters and connected examples
+- Blank and worked-example CSV templates
+- Issue and pull request templates
