@@ -1,0 +1,17 @@
+# Contributing
+Thanks for helping improve this project.
+
+## Ways to help
+
+- Fix typos, unclear explanations, or broken links in `docs/`
+- Suggest better worked examples or practice scenarios
+- Report workbook problems (wrong formula, broken dropdown, bad formatting)
+
+## Guidelines
+
+1. **Open an issue first** for anything bigger than a typo, so we can agree on the approach.
+2. **Keep the audience in mind:** first-time GRC learners. Prefer plain language and define jargon on first use.
+3. **Docs:** one topic per file under `docs/`, numbered in reading order. Use relative links.
+4. **Workbook:** keep formulas (no hardcoded results), keep Arial, and document any new assumption on the **Start Here** or **Reference** sheet. Do not remove the dropdowns or validation.
+5. **CSV files** must keep their headers in sync with the workbook sheets.
+6. Describe your change in the pull request and add a line to [CHANGELOG.md](CHANGELOG.md).
